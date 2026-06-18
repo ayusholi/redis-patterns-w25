@@ -1,12 +1,7 @@
 # Notes
 
-## Overview
+Last updated: 2026-06-18T13:00:01.318Z
 
-Work in progress.
+## Progress
 
-## TODO
-
-- [ ] Define requirements
-- [ ] Implement core functionality
-- [ ] Add tests
-- [ ] Write documentation
+- correct type mismatch in data models
