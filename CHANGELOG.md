@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add pre-commit hooks for quality checks
-- Updated: 2026-06-18T13:00:01.318Z
+- add end-to-end test suite
+- Build: 2026-06-18T13:00:01.318Z
