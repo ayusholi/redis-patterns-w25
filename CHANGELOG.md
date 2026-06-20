@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add end-to-end test suite
-- Build: 2026-06-18T13:00:01.318Z
+- handle timeout errors in HTTP client
+- Updated: 2026-06-20T13:00:00.771Z
