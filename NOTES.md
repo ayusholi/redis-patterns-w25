@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-06-20T13:00:00.771Z
+Last updated: 2026-06-21T13:00:01.236Z
 
-## Summary
+## Progress
 
-- add architecture decision records
+- resolve race condition in async handler
