@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- split large module into smaller ones
-- Build: 2026-06-20T13:00:00.771Z
+- implement error handling middleware
+- Updated: 2026-06-21T13:00:01.236Z
