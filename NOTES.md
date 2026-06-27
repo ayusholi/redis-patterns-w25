@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-06-26T13:00:01.349Z
+Last updated: 2026-06-27T13:00:01.061Z
 
-## Summary
+## Progress
 
-- simplify conditional logic
+- correct off-by-one error in loop
