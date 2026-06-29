@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add pre-commit hooks for quality checks
-- Build: 2026-06-27T13:00:01.061Z
+- add architecture decision records
+- Updated: 2026-06-29T13:00:01.191Z
